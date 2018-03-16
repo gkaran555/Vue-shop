@@ -10,43 +10,49 @@ new Vue({
         products: [
             {
                 id: 1,
-                name: 'MacBook Pro (15 inch)',
-                description: 'This laptop has a super crisp Retina display. Yes, we know that it\'s overpriced...',
-                price: 2999,
+                name: 'The Smiths',
+                img: 'https://img.discogs.com/EuGrdp1lqK_2NtuWkpkRaPdPPPw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-494927-1230854023.jpeg.jpg',
+                description: 'The Queen Is Dead',
+                price: 14,
                 inStock: 50
             },
             {
                 id: 2,
-                name: 'Samsung Galaxy Note 7',
-                description: 'Unlike the overpriced MacBook Pro, we\'re selling this one a bit cheap, as we heard it might explode...',
-                price: 299,
+                name: 'Sneaker Pimps',
+                img: 'https://img.discogs.com/7gCwhQ2LiC3X5RgfBqnVNfaoREc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96238-1466804014-1032.jpeg.jpg',
+                description: 'Bloodsport',
+                price: 17,
                 inStock: 755
             },
             {
                 id: 3,
-                name: 'HP Officejet 5740 e-All-in-One-printer',
-                description: 'This one might not last for so long, but hey, printers never work anyways, right?',
-                price: 149,
+                name: 'The Dandy Warhols',
+                img: 'https://img.discogs.com/ZCrB5ABP_eTKgi6HT11137e5akc=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-482628-1430040290-6674.jpeg.jpg',
+                description: 'Thirteen Tales From Urban Bohemia',
+                price: 9,
                 inStock: 5
             },
             {
                 id: 4,
-                name: 'iPhone 7 cover',
-                description: 'Having problems keeping a hold of that phone, huh? Ever considered not dropping it in the first place?',
-                price: 49,
+                name: 'The Fall',
+                img: 'https://img.discogs.com/zRChmeWE7-jLnqpCUgQOdzypvZA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-372000-1230023714.jpeg.jpg',
+                description: 'Live At The Witch Trials',
+                price: 11,
                 inStock: 42
             },
             {
                 id: 5,
-                name: 'iPad Pro (9.7 inch)',
-                description: 'We heard it\'s supposed to be pretty good. At least that\'s what people say.',
-                price: 599,
+                name: 'The Sisters Of Mercy',
+                img: 'https://img.discogs.com/9FhiyjQ0a2bh5nTVS5AlvMk1C5M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-852299-1459799842-5412.jpeg.jpg',
+                description: 'First And Last And Always',
+                price: 12,
                 inStock: 0
             },
             {
                 id: 6,
-                name: 'OnePlus 3 cover',
-                description: 'Does your phone spend most of its time on the ground? This cheap piece of plastic is the solution!',
+                name: 'Red Hot Chili Peppers',
+                img: 'https://img.discogs.com/5r7soQNMGdEIoR2y7R7aEjY9J9c=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119354-1514420236-9623.jpeg.jpg',
+                description: 'Blood Sugar Sex Magik',
                 price: 19,
                 inStock: 81
             }
